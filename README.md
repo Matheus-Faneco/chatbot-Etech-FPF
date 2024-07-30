@@ -5,8 +5,11 @@ Como Executar
 1. Instalar Dependências
 Com o Python instalado, instale as dependências necessárias usando o pip:
 
+pip install streamlit openai
+
 2- Execute o Aplicativo:
-Inicie a aplicação com o comando:
+Inicie a aplicação com o comando no terminal:
+
 streamlit run main.py
 
 3- Acesse a Aplicação:
