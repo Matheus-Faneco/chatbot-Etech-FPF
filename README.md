@@ -18,5 +18,6 @@ Inicie a aplicação com o comando no terminal:
 Abra o navegador e vá para http://localhost:8501 para ver o chatbot funcionando.
 
 ### Observações
-É necessário ter uma chave de API válida da OpenAI configurada para que o chatbot possa funcionar corretamente.
-
+- É necessário ter uma chave de API válida da OpenAI configurada para que o chatbot possa funcionar corretamente.
+- Nossa APIKEY foi inserida no PATH das variáveis de ambiente conforme ensina os documentos do OpenAI.
+- https://platform.openai.com/docs/quickstart?context=python
