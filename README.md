@@ -15,7 +15,7 @@ Inicie a aplicação com o comando no terminal:
 
 ### 3- Acesse a Aplicação:
 
-Abra o navegador e vá para http://localhost:8501 para ver o chatbot funcionando.
+Abra o navegador e vá para o local host com a porta informada no terminal para ver o chatbot funcionando.
 
 ### Observações
 - É necessário ter uma chave de API válida da OpenAI configurada para que o chatbot possa funcionar corretamente.
